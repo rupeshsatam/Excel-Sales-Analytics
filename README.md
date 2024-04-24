@@ -104,7 +104,7 @@ Reports generated through finance analytics play a pivotal role in steering orga
 
  - [X] **DAX (Data Analysis Expressions):** Proficient use of DAX to create calculated columns, enabling complex calculations and insights in data analysis.
 
-##Soft Skills
+## Soft Skills
  - [X] **Sales & Finance Report Understanding:** A refined understanding of sales and finance reports, ensuring that data analysis aligns with the specific needs and goals of these domains.
 
  - [X] **User-Centric Report Design:** The ability to design user-centric reports with empathy in mind, ensuring that data insights are presented in a clear and actionable manner.
