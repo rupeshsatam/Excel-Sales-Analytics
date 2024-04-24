@@ -3,7 +3,7 @@
 ## Sales Report :
 * **Project objective:**
 
- 1. Create a Customer performance report
+ 1. Create a [Customer performance report](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/fce22ae15e80d261d009f156381a2cf1d6615608/Sales_Reports/Customer%20Performance%20Report.pdf)
 
   2. Conduct a comprehensive comparison between Market Performance vs Target
 
