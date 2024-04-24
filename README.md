@@ -1,5 +1,5 @@
 # Excel Sales & Finance Analytics
-### Link to linkedin Post Engagement : linkedin Post
+### Link to linkedin Post Engagement : LinkedIn Post
 ## Sales Report :
 * **Project objective:**
 
