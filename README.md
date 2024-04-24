@@ -5,19 +5,19 @@
 
  1. Create a [Customer performance report](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/fce22ae15e80d261d009f156381a2cf1d6615608/Sales_Reports/Customer%20Performance%20Report.pdf)
 
-  2. Conduct a comprehensive comparison between Market Performance vs Target
+  2. Conduct a comprehensive comparison between [Market Performance vs Target](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/Sales_Reports/Market%20Performance%20vs%20Target.pdf)
 
 **Additional**
 
-- Comparison of the Divison Level Report, along with the growth percentage
+- Comparison of the [Divison Level Report](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/Sales_Reports/Division%20Level%20Report.pdf), along with the growth percentage
 
-- Finding the New Products which are launched at 2021 only
+- Finding the [New Products](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/Sales_Reports/New%20Products%20-%202021.pdf) which are launched at 2021 only
 
-- Estimating the Top 5 Countries in terms of net sales in 2021
+- Estimating the [Top 5 Countries](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/Sales_Reports/Top%205%20Countries.pdf) in terms of net sales in 2021
 
-- Discovering the Top & Bottom 5 Products in terms of quantity sold
+- Discovering the [Top & Bottom 5 Products](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/Sales_Reports/Top%20%26%20Bottom%205%20Products.pdf) in terms of quantity sold
 
-- Detecting the Top 10 products based on the percentage increase in their net sales from 2020 to 2021
+- Detecting the [Top 10 products](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/Sales_Reports/Top%2010%20Products.pdf) based on the percentage increase in their net sales from 2020 to 2021
 
 ## Sales Analytics Overview
 ### Purpose of Sales Analytics
@@ -38,11 +38,11 @@ Reports generated through sales analytics serve as indispensable assets to busin
 ## Finance Report :
 ### Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/P%26L_Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/P%26L_Reports/P%26L%20Statement%20by%20Months.pdf)
 
-2. Create Profit and Loss (P&L) reports by Market
+2. Create Profit and Loss (P&L) reports by [Market](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/P%26L_Reports/P%26L%20Statement%20by%20Markets.pdf)
 
-3. Create Profit and Loss (P&L) reports by Quarters W.r.t subzone in Gross Margin % Criteria
+3. Create Profit and Loss (P&L) reports by [Quarters](https://github.com/rupeshsatam/Excel-Sales-Analytics/blob/2642060aa7f761cf14c6c9720f5a97b78352458d/P%26L_Reports/P%26L%20Statement%20By%20Quarters-%20Sub_Zone.pdf) W.r.t subzone in Gross Margin % Criteria
 
 ### NOTE :
 A Fiscal Year is the twelve-month period during which a company budgets, forecasts, and reports. Although many businesses operate on a calendar year, a fiscal year can begin at any time during the year and end 12 months later.
