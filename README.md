@@ -1,5 +1,5 @@
 # Excel Sales & Finance Analytics
-### Link to linkedin Post Engagement : LinkedIn Post
+### Link to linkedin Post Engagement : [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7191687757012865024/)
 ## Sales Report :
 * **Project objective:**
 
